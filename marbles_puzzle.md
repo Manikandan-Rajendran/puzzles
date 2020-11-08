@@ -11,3 +11,6 @@ if weight is balanced, then we can take 3 group of marbles and weight them.
   still balanced?, then the weight marble is the last marble in group 3. otherwise, balance show which marble is over weighted.
 if weight not balanced, then overweight marble is in one of the group,
   take that group and weight only two marble,  still balanced?, then the weight marble is the last marble in group 3 otherwise, balance show which marble is over weighted.
+
+
+Answer: 2
